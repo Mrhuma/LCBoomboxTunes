@@ -7,7 +7,7 @@
 - After you've created the profile, click on it and then click *Select Profile*.
 - Click on the *Online* tab on the left and in the search bar at the top search for `MrhumaPack`.
 - Click on `MrhumaPack` and click *Download* then *Download with dependencies*.
-- Once it's downloaded click on *Start Modded* at the top left and boot the game until you reach the main menu.
+- Once it's downloaded click on *Start Modded* at the top left and boot the game.
 - Close the game once you reach the main menu.
 - We do this initial boot so that it can generate the folders needed for the custom music.
 
