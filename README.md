@@ -17,3 +17,4 @@
 - This is where the music will be placed. Now we need to download the music.
 - Go to the [releases](https://github.com/Mrhuma/LCBoomboxTunes/releases) for this repo and download the `LCBoomboxTunes.zip`.
 - Open the zip you just downloaded and move all the mp3 files into the *Boombox Music* folder.
+- Now you're all set! Make sure to use the *Start Modded* button when booting the game.
